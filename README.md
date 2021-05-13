@@ -1,6 +1,8 @@
 
 ## **ASUS-P8B75M-LX-PLUS-hackintosh**
 
+## 主板已售出，故封存该项目 
+
 使用opencore0.6.8构建
 
 **U** 盘安装的同学，请使用 ****USB2.0**** 完成安装，别着急联网，先用 ****OpenCore Configurator**** （或者别的工具也行）刷新三码，不刷新就联网的后果自负 ...
